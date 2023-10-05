@@ -1,0 +1,4 @@
+The files here are TCP IP test code which involves dummy data being transferred from Client and receive predctions from the server
+Raspberry Pi - Client
+Jetson Orin Nano - Server
+The server side script utilizes optimized Tensorrt model for prediction
